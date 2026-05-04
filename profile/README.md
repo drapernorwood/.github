@@ -4,7 +4,7 @@ Draper Norwood builds focused digital products, creator tools, and AI-powered ex
 
 ## What we’re building
 - Website V1
-- Creator education products
+- CreatorSecrets.ai 🤫
 - Awaken Meditation App
 
 ## Core projects
