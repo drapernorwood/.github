@@ -3,7 +3,7 @@
 Draper Norwood builds focused digital products, creator tools, and AI-powered experiences.
 
 ## What we’re building
-- Website V2
+- Draper Norwood Website V2
 - CreatorSecrets.ai 🤫
 - Awaken Meditation App
 
