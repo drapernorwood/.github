@@ -8,7 +8,7 @@ Draper Norwood builds focused digital products, creator tools, and AI-powered ex
 - Awaken Meditation App
 
 ## Core projects
-- website-v1 — company website and brand presence
+- website-v2 — company website and brand presence
 - creator-secrets — creator education platform and content system
 - awaken-meditation-app — meditation and wellness product
 
